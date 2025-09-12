@@ -9,9 +9,7 @@
 ###
 
 <p align="left">My name is Ahsan and I'm an Informatics student from Institut Teknologi Bandung</p>
-<p align="left">📚 Currently learning Software Engineering (Web Development and Mobile Application)<br>💻 Focusing on Cybersecurity mainly on Forensics and Web Exploitation</p>
-
-###
+<p align="left">📚 Focused on Software Engineering especially Web Development and Mobile Application</p>
 
 <h2 align="center">Tech Stacks & Tools</h2>
 
@@ -22,6 +20,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/>
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
@@ -35,25 +35,15 @@
 
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Volatility-02303A?style=for-the-badge&logo=volatility&logoColor=white" alt="Volatility" />
-  <img src="https://img.shields.io/badge/Metasploit-1C1E24?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-</div>
-
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsuunn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <div>
 
-###
 
 <h2 align="left">Connect with me!</h2>
 
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ahsan-malik-al-farisi-86a735254/" target="_blank">
